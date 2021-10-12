@@ -14,7 +14,7 @@ Saaransh Sharma - 100701820
 1. [**Exercise 1**](https://github.com/strato67/SOFE3650-Assignment3-Group5/tree/main/Exercise%201/Exercise%201/com/company)
 2. [**Exercise 2**](https://github.com/strato67/SOFE3650-Assignment3-Group5/tree/main/Exercise%202/src/com/company)
 4. [**Exercise 3**](https://github.com/strato67/SOFE3650-Assignment3-Group5/tree/main/Exercise%203/Exercise%203/com/company)
-5. [**Exercise 4**](https://github.com/strato67/SOFE3650-Assignment3-Group5/blob/main/Exercise_4.txt)
+5. [**Exercise 4**](https://github.com/strato67/SOFE3650-Assignment3-Group5/blob/main/Exercise_4.md)
     
 <!--- 2. **Interfaces**
     1. [IphoneFactory](/src/com/company/IphoneFactory.java)
