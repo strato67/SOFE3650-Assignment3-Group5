@@ -1,9 +1,9 @@
 # Model View Controller
 
-##advantages:
+## Advantages:
 +Good modularity
 
-
+## Disadvantages: 
 -High coupling
 
 
